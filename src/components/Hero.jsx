@@ -64,10 +64,10 @@ const Hero = () => {
                     </p>
 
                     <div className="flex items-center gap-4 pt-4">
-                        <GlowButton href="https://github.com" target="_blank" rel="noopener noreferrer">
+                        <GlowButton href="https://github.com/Darpan013" target="_blank" rel="noopener noreferrer">
                             <Github className="w-5 h-5 mr-2" /> GitHub
                         </GlowButton>
-                        <GlowButton href="https://linkedin.com" target="_blank" rel="noopener noreferrer">
+                        <GlowButton href="https://www.linkedin.com/in/darpan-rajput/" target="_blank" rel="noopener noreferrer">
                             <Linkedin className="w-5 h-5 mr-2" /> LinkedIn
                         </GlowButton>
                     </div>
